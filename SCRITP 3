@@ -1,0 +1,12 @@
+#!/usr/bin/local/python3
+astr = input("Write any word in the sting")
+aint = eval(input("Write any numbers"))
+afloat = eval(input('Write a number in points"))
+
+print(astr)
+print(aint)
+print(afloat)
+
+print(type(astr))
+print(type(aint))
+print(type(afloat))
