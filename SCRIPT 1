@@ -1,0 +1,4 @@
+#!/usr/local/bin/python3
+glass = "Empty"
+print(glass)
+print("The glass is , glass")    ,  print("The glass is ,+glass")
