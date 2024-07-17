@@ -1,0 +1,8 @@
+#!/bin/local/python3
+astr = input("Enter value in string")
+aint = eval(input("Enter an integer value"))
+afloat = eval(input("Enter a float number"))
+aint = str(aint)
+afloat = str(afloat)
+print("Your string value is:" + astr + "\nYour integer value is :" + aint + "\nYour float number is :" + afloat)
+print(f"Your string value is: {astr} \nYour integer value is : {aint} \nYour float number is : {afloat}")
