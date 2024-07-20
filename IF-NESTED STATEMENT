@@ -1,0 +1,14 @@
+a = int(input("Enter a number: "))
+b = int(input("Enter b number: "))
+c = int(input("Enter c number: "))
+
+if a > b:
+    if a > c:
+        print(f"a is big a = {a}")
+    else:
+        print(f"c is big c = {c}")
+else:
+    if b > c:
+        print(f"b is greater b = {b}")
+    else:
+        print(f"c is big c = {c}")
