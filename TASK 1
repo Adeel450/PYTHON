@@ -1,0 +1,19 @@
+#Task time:--
+#if number is ODD                 
+#print linkedin
+#IF NUMBER IS EVEN  AND IN THE INCLUSIVE RNAGE OF 2 TO 5 , PRINT NON LINKEDIN
+#IF NUMBER IS EVEN AND IN THE INCLUSIVE RANGE OF 6 TO 20 , PRINT LINKEDIN
+#IF NUMBER IS EVEN GREATER THEN 20 , PRINT NOT LINKEDIN
+
+
+
+
+n = int(input("Enter any number: "))
+if n % 2 == 1:
+    print("linkedin")
+elif n >= 2 and n <= 5:
+    print("Not linkedin")
+elif n >= 6 and n <= 20:
+    print("linkedin")
+elif n > 20:
+    print("not linkedin")
