@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+print("\n\tAdeel")  # if you comment these multiple lines then in the start write three ''' and in the last also write these three '''
+print("\n\tAwan")
+print("c:\\Users\\newfile")
+string = "My name is 'Adeel' awan"
+print(string)
