@@ -1,0 +1,34 @@
+1: Basic String Manipulations:
+
+Indexing: print(abd[0])
+Slicing: print(abd[0:2])
+Concatenation: print(fname, " ", lname)
+Repetition: print(fname*3)
+2: Case Conversion:
+
+Uppercase: print(abd.upper())
+Lowercase: print(abd.lower())
+Capitalize: print(abd.capitalize())
+Title Case: print(abd.title())
+Swap Case: print(abd.swapcase())
+
+3: String Stripping:
+
+Strip Characters: print(abd.strip('A'))
+Strip Whitespace: print(abd.strip())
+Centering: print(abd.center(20))
+Zero Fill: print(abd.zfill(20))
+
+4: Splitting and Joining:
+
+Split by Delimiter: print(name.split('Dodia'))
+Join with Delimiter: print('#'.join(abd))
+5: Reverse String:
+
+Reverse Entire String: print(abd[::-1])
+6: Replace Substring:
+
+Replace Substring: print(abd.replace("$", ""))
+7: Sorting Characters:
+
+Sort Characters: print(sorted(abd))
