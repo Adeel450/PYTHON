@@ -1,0 +1,5 @@
+x=int(input("Enter a number"))
+y-int(input('ENter b number'))
+print("The value of x+y is =" ,x+y))
+print("The value of x*y is =" ,x*y))
+print("The value of x/y is =" ,x/y))
